@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: #121d31;
+    color: white;
+}
+
+.col a{
+    border: solid rgb(255, 255, 255);
+    padding: 5px;
+    margin-left: 3px;
+    border-radius: 6px;
+    border-width: 0.5px;
+}
+
+.container {
+    margin: 5% auto;
+    padding: 5%;
+}
+
+.vacancy {
+    width: 170px;
+    height: 30px;
+    padding: 1px;
+    border-radius: 10PX;
+    background-color: rgb(58, 144, 82);
+    animation-name: vacancy;
+    animation-duration: 4s;  
+    text-align: center;
+    margin: 0 auto;
+
+    }
+  
+  @keyframes vacancy {
+    0%   {background-color: rgb(58, 144, 82);}
+    50%  {background-color: rgb(13, 197, 65);}
+    100% {background-color: rgb(58, 144, 82);}
+  }
+
+.antialiased {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+.glass {
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.1),
+        rgba(255, 255, 255, 0)
+    );
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    padding-bottom: 20px;
+}
+
+.status{
+    margin-top: 10px;
+}
+
+
+h2 {
+    margin-top: 10px;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: "Basic", sans-serif;
+    font-size: 30px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.icons a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.circulo {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.custom-btn {
+    background-color: transparent;
+    border: none;
+}
+
+.btns a{
+    margin: 5px;
+}
+
+.custom-btn {
+    margin-right: 20px;
+}
+
+.experienceCards {
+    margin-top: 25px;
+}
+
+
+
+.card {
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.1),
+        rgba(255, 255, 255, 0)
+    );
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    color: white;
+}
+.container {
+    display: inline-block;
+    
+}
