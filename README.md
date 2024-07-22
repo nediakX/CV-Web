@@ -4,7 +4,11 @@ Realize un pequeño currículum digital utilizando Laravel. A través de esta ap
 
 Tecnologías Utilizadas:
 - Laravel: Framework de desarrollo de aplicaciones web en PHP que me permitió construir una base para este proyecto.
-- HTML/CSS/JavaScript: Utilicé estas tecnologías para la parte Front-end de la aplicación, creando una interfaz de usuario atractiva y fácil de usar.
+- HTML/CSS/JavaScript: U
+
+https://github.com/user-attachments/assets/5bbc3fdd-63e5-4284-8774-047857e28605
+
+tilicé estas tecnologías para la parte Front-end de la aplicación, creando una interfaz de usuario atractiva y fácil de usar.
 
 Este proyecto es solo el comienzo. En el futuro, planeo actualizar de manera constante. ¡Estén atentos para futuras publicaciones!
 
