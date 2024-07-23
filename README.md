@@ -6,7 +6,10 @@ Tecnologías Utilizadas:
 - Laravel: Framework de desarrollo de aplicaciones web en PHP que me permitió construir una base para este proyecto.
 - HTML/CSS/JavaScript: U
 
-https://github.com/user-attachments/assets/5bbc3fdd-63e5-4284-8774-047857e28605
+
+
+https://github.com/user-attachments/assets/6d8485fd-c379-48f1-9338-21e70c14193a
+
 
 tilicé estas tecnologías para la parte Front-end de la aplicación, creando una interfaz de usuario atractiva y fácil de usar.
 
