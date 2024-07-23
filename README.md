@@ -8,7 +8,10 @@ Tecnologías Utilizadas:
 
 
 
-https://github.com/user-attachments/assets/6d8485fd-c379-48f1-9338-21e70c14193a
+
+https://github.com/user-attachments/assets/8e63480b-835f-4588-88be-72b209d1efc5
+
+
 
 
 tilicé estas tecnologías para la parte Front-end de la aplicación, creando una interfaz de usuario atractiva y fácil de usar.
